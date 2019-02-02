@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.hackerrank.com/m__p__>
-        <img height=85 src="hhttps://www.kisspng.com/png-logo-hackerrank-wheres-weed-java-portable-network-6376328/download-png">
+        <img height=85 src="![logo-hackerrank](https://user-images.githubusercontent.com/32373646/52169922-fd6d6400-2737-11e9-8c90-4e74a331545d.png)">
     </a>
     <br>Solutions to HackerRank problems
 </p>
