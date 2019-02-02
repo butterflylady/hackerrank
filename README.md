@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.hackerrank.com/m__p__>
-        ![logo-hackerrank](https://user-images.githubusercontent.com/32373646/52169922-fd6d6400-2737-11e9-8c90-4e74a331545d.png)
+        <img height=85 src="https://github.com/butterflylady/hackerrank/blob/master/images/hackerrank-logo.png">
     </a>
     <br>Solutions to HackerRank problems
 </p>
