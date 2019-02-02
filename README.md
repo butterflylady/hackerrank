@@ -30,5 +30,5 @@ Dog     & Basketball & Orange \\ \hline
   
 | Day | Challenge | Solution |
 |:---:|:---|:---|
-|  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Day 00: Hello World.py](https://github.com/butterflylady/hackerrank/Python/30%Days%of%Code/Day%00:%Hello%World.py) |
+|  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Day 00: Hello World.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/Day%2000:%20Hello%20World.py) |
 
