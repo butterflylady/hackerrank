@@ -12,7 +12,7 @@
 * [SQL](#sql)
 
 
-# 30 Days of Code
+## 30 Days of Code
 
 
 \begin{table}[]
@@ -29,6 +29,6 @@ Dog     & Basketball & Orange \\ \hline
 
   
 | Day | Challenge | Solution |
-|:---:|:---:|:---:|
+|:---:|:---|:---|
 |  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Day 00: Hello World.py](https://github.com/butterflylady/hackerrank/Python/30%Days%of%Code/Day%00:%Hello%World.py) |
 
