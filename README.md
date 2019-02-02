@@ -1,10 +1,9 @@
 <p align="center">
-    <a href="https://www.hackerrank.com/m__p__>
-        <img height=85 src="/images/hackerRankLogo.svg">
+    <a href="https://www.hackerrank.com/m__p__">
+        <img height=85 src="https://github.com/butterflylady/hackerrank/blob/master/images/hackerRankLogo.svg">
     </a>
     <br>Solutions to HackerRank problems
 </p>
-
 
 * [30 Days of Code](#30-days-of-code)
 * [10 Days of Statistics](#10-days-of-statistics)
