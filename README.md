@@ -13,7 +13,7 @@
 
   
 | Day | Challenge | Solution |
-|:---:|:---:|:---:|
+|:---:|---|---|
 | 0 | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Day 00: Hello World.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/Day%2000:%20Hello%20World.py) |
 | 1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Day 01: Data Types.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/Day%2001:%20Data%20Types.py) |
 | 2 | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Day 02: Operators.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/Day%2002:%20Operators.py) |
