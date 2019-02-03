@@ -7,9 +7,6 @@
 
 * [30 Days of Code](#30-days-of-code)
 * [10 Days of Statistics](#10-days-of-statistics)
-* [Python](#python)
-* [Java](#java)
-* [SQL](#sql)
 
 
 ## 30 Days of Code
@@ -27,7 +24,7 @@
 | 7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Day 07: Arrays.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/Day%2007:%20Arrays.py) |
 | 8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Day 08: Dictionaries and Maps.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/Day%2008:%20Dictionaries%20and%20Maps.py) |
 | 9 | [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem) | [Day 09: Recursion.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/Day%2009:%20Recursion.py) |
-| 10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Day 10: Binary Numbers (v.1).py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/Day%2010:%20Binary%20Numbers%20(v.1).py)\\ [Day 10: Binary Numbers (v.2).py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/Day%2010:%20Binary%20Numbers%20(v.2).py) |
+| 10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Day 10: Binary Numbers (v.1).py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/Day%2010:%20Binary%20Numbers%20(v.1).py)<br /> [Day 10: Binary Numbers (v.2).py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/Day%2010:%20Binary%20Numbers%20(v.2).py) |
 | 11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Day 11: 2D Arrays.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/Day%2011:%202D%20Arrays.py) |
 | 12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Day 12: Inheritance.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/Day%2012:%20Inheritance.py) |
 | 13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Day 13: Abstract Classes.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/Day%2013:%20Abstract%20Classes.py) |
