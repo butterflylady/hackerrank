@@ -5,13 +5,31 @@
     <br>Solutions to HackerRank problems
 </p>
 
-* [30 Days of Code]
+* [30 Days of Code](#30-days-of-code)
 * [10 Days of Statistics](#10-days-of-statistics)
+* [Python](#python)
+    - [Introduction](#introduction)
+    - [Basic Data Types](#basic-data-types)
+    - [Strings](#strings)
+    - [Sets](#sets)
+    - [Math](#math)
+    - [Itertools](#itertools)
+    - [Collections](#collections)
+    - [Date and Time](#date-and-time)
+    - [Errors and Exceptions](#rrrors-and-exceptions)
+    - [Classes](#classes)
+    - [Built-Ins](#built-ins)
+    - [Python Functionals](#python-functionals)
+    - [Regex and Parsing](#regex-and-parsing)
+    - [XML](#xml)
+    - [Closures and Decorators](#closures-and-decorators)
+    - [Numpy](#numpy)
+    - [Debugging](#debugging)
+    
 
 
 ## 30 Days of Code
 
-  
 | Day | Challenge | Solution |
 |:---:|---|---|
 | 0 | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [day_00_hello_world.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/day_00_hello_world.py) |
@@ -47,3 +65,62 @@
 
 
 ## 10 Days of Statistics
+
+## Python
+
+### Introduction
+| Challenge | Solution |
+|---|---|
+| [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [say_hello_world_with_python.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Introduction/say_hello_world_with_python.py) |
+| [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [python_if_else.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Introduction/python_if_else.py) |
+| [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [arithmetic_operators.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Introduction/arithmetic_operators.py) |
+| [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [python_division.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Introduction/python_division.py) |
+| [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [loops.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Introduction/loops.py) |
+| [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [write_a_function.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Introduction/write_a_function.py) |
+| [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [print_function.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Introduction/print_function.py) |
+
+### Basic Data Types
+| Challenge | Solution |
+|---|---|
+| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [list_comprehensions.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Basic%20Data%20Types/list_comprehensions.py) |
+| [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [find_the_runnerup_score.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Basic%20Data%20Types/find_the_runnerup_score.py) |
+| [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [nested_lists.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Basic%20Data%20Types/nested_lists.py) |
+| [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [finding_the_percentage.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Basic%20Data%20Types/finding_the_percentage.py) |
+| [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [lists.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Basic%20Data%20Types/lists.py) |
+| [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [tuples.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Basic%20Data%20Types/tuples.py) |
+
+### Strings
+
+### Sets
+
+### Math
+
+### Itertools
+
+### Collections
+
+### Date and Time
+
+### Errors and Exceptions
+
+### Classes
+
+### Built-Ins
+
+### Python Functionals
+
+### Regex and Parsing
+| Challenge | Solution |
+|---|---|
+| [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem) | [detect_floating_point_number.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/detect_floating_point_number.py) |
+| [Re.split()](https://www.hackerrank.com/challenges/re-split/problem) | [split.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/split.py) |
+| [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem) | [group_groups_groupdict.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/group_groups_groupdict.py) |
+| [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem) | [findall_finditer.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/findall_finditer.py) |
+
+### XML
+
+### Closures and Decorators
+
+### Numpy
+
+### Debugging
