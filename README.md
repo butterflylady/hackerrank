@@ -25,6 +25,9 @@
     - [Closures and Decorators](#closures-and-decorators)
     - [Numpy](#numpy)
     - [Debugging](#debugging)
+* [Problem Solving](#problem-solving)
+* [The HackerRank Interview Preparation Kit](#the-hackerrank-interview-p[reparation-kit)
+
     
 
 
