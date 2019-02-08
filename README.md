@@ -68,7 +68,7 @@
 
 ## Python
 
-### Introduction
+### *Introduction*
 | Challenge | Solution |
 |---|---|
 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [say_hello_world_with_python.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Introduction/say_hello_world_with_python.py) |
@@ -79,7 +79,7 @@
 | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [write_a_function.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Introduction/write_a_function.py) |
 | [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [print_function.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Introduction/print_function.py) |
 
-### Basic Data Types
+### *Basic Data Types*
 | Challenge | Solution |
 |---|---|
 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [list_comprehensions.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Basic%20Data%20Types/list_comprehensions.py) |
@@ -89,27 +89,27 @@
 | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [lists.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Basic%20Data%20Types/lists.py) |
 | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [tuples.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Basic%20Data%20Types/tuples.py) |
 
-### Strings
+### *Strings*
 
-### Sets
+### *Sets*
 
-### Math
+### *Math*
 
-### Itertools
+### *Itertools*
 
-### Collections
+### *Collections*
 
-### Date and Time
+### *Date and Time*
 
-### Errors and Exceptions
+### *Errors and Exceptions*
 
-### Classes
+### *Classes*
 
-### Built-Ins
+### *Built-Ins*
 
-### Python Functionals
+### *Python Functionals*
 
-### Regex and Parsing
+### *Regex and Parsing*
 | Challenge | Solution |
 |---|---|
 | [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem) | [detect_floating_point_number.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/detect_floating_point_number.py) |
@@ -117,10 +117,10 @@
 | [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem) | [group_groups_groupdict.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/group_groups_groupdict.py) |
 | [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem) | [findall_finditer.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/findall_finditer.py) |
 
-### XML
+### *XML*
 
-### Closures and Decorators
+### *Closures and Decorators*
 
-### Numpy
+### *Numpy*
 
-### Debugging
+### *Debugging*
