@@ -127,3 +127,7 @@
 ### *Numpy*
 
 ### *Debugging*
+
+## Problem Solving
+
+## The HackerRank Interview Preparation Kit
