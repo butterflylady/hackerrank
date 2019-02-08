@@ -5,7 +5,7 @@
     <br>Solutions to HackerRank problems
 </p>
 
-* [30 Days of Code](#30-days-of-code)
+* [30 Days of Code]
 * [10 Days of Statistics](#10-days-of-statistics)
 
 
