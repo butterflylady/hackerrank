@@ -93,6 +93,24 @@
 | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [tuples.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Basic%20Data%20Types/tuples.py) |
 
 ### *Strings*
+| Challenge | Solution |
+|---|---|
+| [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [swap_ case_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/swap_%20case_v1.py)<br />[swap_case_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/swap_case_v2.py) |
+| [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [string_split_and_join.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/string_split_and_join.py) |
+| [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [what_is_your_name.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/what_is_your_name.py) |
+| [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [mutations.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/mutations.py) |
+| [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [find_a_string_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/find_a_string_v1.py)<br />[find_a_string_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/find_a_string_v2.py) |
+| [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | [string_validators.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/string_validators.py) |
+| [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem) | [text_alignment.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/text_alignment.py) |
+| [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem) | [text_wrap_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/text_wrap_v1.py)<br />[text_wrap_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/text_wrap_v2.py) |
+| [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [designer_door_mat_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/designer_door_mat_v1.py)<br />[designer_door_mat_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/designer_door_mat_v2.py) |
+| [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [string_formatting.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/string_formatting.py) |
+| [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [alphabet_rangoli.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/alphabet_rangoli.py) |
+| [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [capitalize_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/capitalize_v1.py)<br />[capitalize_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/capitalize_v2.py) |
+| [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [the_minion_game.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/the_minion_game.py) |
+| [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [merge_the_tools_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/merge_the_tools_v1.py)<br />[merge_the_tools_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/merge_the_tools_v2.py) |
+
+
 
 ### *Sets*
 
