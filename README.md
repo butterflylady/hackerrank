@@ -95,7 +95,7 @@
 ### *Strings*
 | Challenge | Solution |
 |---|---|
-| [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [swap_case_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/swap_%20case_v1.py)<br />[swap_case_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/swap_case_v2.py) |
+| [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [swap_case_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/swap_case_v1.py)<br />[swap_case_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/swap_case_v2.py) |
 | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [string_split_and_join.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/string_split_and_join.py) |
 | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [what_is_your_name.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/what_is_your_name.py) |
 | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [mutations.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/mutations.py) |
