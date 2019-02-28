@@ -1,0 +1,6 @@
+n = int(input())
+eng = set(map(int, input().split()))
+m = int(input())
+fr = set(map(int, input().split()))
+eng_fr = eng & fr  # eng.intersection(fr)
+print(len(eng_fr))

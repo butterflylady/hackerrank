@@ -1,0 +1,5 @@
+num = int(input())
+div = int(input())
+print(num // div)
+print(num % div)
+print("(" + str(num // div) + ", " + str(num % div) + ")")

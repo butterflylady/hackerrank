@@ -1,0 +1,6 @@
+n, m = map(int, input().split())
+arr = list(map(int, input().split()))
+like = set(map(int, input().split()))
+dislike = set(map(int, input().split()))
+happiness = sum([(i in like) - (i in dislike) for i in arr])
+print(happiness)
