@@ -110,11 +110,34 @@
 | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [the_minion_game.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/the_minion_game.py) |
 | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [merge_the_tools_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/merge_the_tools_v1.py)<br />[merge_the_tools_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Strings/merge_the_tools_v2.py) |
 
-
-
 ### *Sets*
+| Challenge | Solution |
+|---|---|
+| [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [introduction_to_sets.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/introduction_to_sets.py) |
+| [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [no_idea_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/no_idea_v1.py)<br />[no_idea_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/no_idea_v2.py) |
+| [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [symmetric_difference.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/symmetric_difference.py) |
+| [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [set_add.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/set_add.py) |
+| [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [set_discard_remove_pop_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/set_discard_remove_pop_v1.py)<br />[set_discard_remove_pop_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/set_discard_remove_pop_v2.py) |
+| [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [set_union_operation.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/set_union_operation.py) |
+| [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [set_intersection_operation.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/set_intersection_operation.py) |
+| [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | [set_difference_operation.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/set_difference_operation.py) |
+| [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [set_symmetric_difference_operation.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/set_symmetric_difference_operation.py) |
+| [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [set_mutations.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/set_mutations.py) |
+| [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [the_captains_room_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/the_captains_room_v1.py)<br />[the_captains_room_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/the_captains_room_v2.py) |
+| [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [check_subset.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/check_subset.py) |
+| [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [check_strict_superset.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Sets/check_strict_superset.py) |
 
 ### *Math*
+| Challenge | Solution |
+|---|---|
+| [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [polar_coordinates.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Math/polar_coordinates.py) |
+| [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [find_angle_mbc.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Math/find_angle_mbc.py) |
+| [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [triangle_quest2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Math/triangle_quest2.py) |
+| [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [mod_divmod.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Math/mod_divmod.py) |
+| [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [power_mod_power.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Math/power_mod_power.py) |
+| [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [integers_come_in_all_sizes.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Math/integers_come_in_all_sizes.py) |
+| [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem) | [triangle_quest.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Math/triangle_quest.py) |
+
 
 ### *Itertools*
 
