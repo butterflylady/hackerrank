@@ -33,6 +33,16 @@
 
 ## 30 Days of Code
 
+<style>
+table:nth-of-type(1) {
+    display:table;
+    width:100%;
+}
+table:nth-of-type(1) th:nth-of-type(2) {
+    width:100%;
+}
+</style>
+
 | Day | Challenge | Solution |
 |:---:|---|---|
 | 0 | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [day_00_hello_world.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/day_00_hello_world.py) |
