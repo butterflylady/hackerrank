@@ -215,7 +215,7 @@
 ### *Regex and Parsing* 
 | Challenge | Solution |
 |---|---|
-| [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem) | [detect_floating_point_number.py] (  (https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/detect_floating_point_number.py) |
+| [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem) | [detect_floating_point_number.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/detect_floating_point_number.py) |
 | [Re.split()](https://www.hackerrank.com/challenges/re-split/problem) | [split.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/split.py) |
 | [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem) | [group_groups_groupdict.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/group_groups_groupdict.py) |
 | [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem) | [findall_finditer.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/findall_finditer.py) |
