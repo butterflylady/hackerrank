@@ -7,8 +7,6 @@
 
 * [**30 Days of Code**](#30-days-of-code)
 
-* [**10 Days of Statistics**](#10-days-of-statistics)
-
 * [**Python**](#python)
     - [Introduction](#introduction)
     - [Basic Data Types](#basic-data-types)
@@ -86,8 +84,6 @@
 | 28 | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [day_28_regex_patterns_and_intro_to_databases_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/day_28_regex_patterns_and_intro_to_databases_v1.py)<br />[day_28_regex_patterns_and_intro_to_databases_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/day_28_regex_patterns_and_intro_to_databases_v2.py)
 | 29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [day_29_bitwise_and.py](https://github.com/butterflylady/hackerrank/blob/master/Python/30%20Days%20of%20Code/day_29_bitwise_and.py)
 
-
-## 10 Days of Statistics
 
 ## Python
 
