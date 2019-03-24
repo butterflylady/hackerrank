@@ -163,41 +163,41 @@
 |---|---|
 | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | []() |
 | [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | []() |
-| [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem) | []() |
-| [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | []() |
-| [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem) | []() |
-| [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | []() |
-| [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem) | []() |
+| [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [itertools_combinations.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Itertools/itertools_combinations.py) |
+| [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [itertools_combinations_with_replacement.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Itertools/itertools_combinations_with_replacement.py) |
+| [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem) | [compress_the_string.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Itertools/compress_the_string.py) |
+| [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [iterables_and_iterators.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Itertools/iterables_and_iterators.py) |
+| [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem) | [maximize_it_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Itertools/maximize_it_v1.py)<br />[maximize_it_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Itertools/maximize_it_v2.py) |
 
 ### *Collections*
 | Challenge | Solution |
 |---|---|
 | [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem) | []() |
 | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | []() |
-| [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | []() |
+| [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | [collections_namedtuple.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Collections/collections_namedtuple.py) |
 | [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) | []() |
+| [Word Order](https://www.hackerrank.com/challenges/word-order/problem) | [word_order.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Collections/word_order.py) |
 | [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem) | []() |
-| [Word Order](https://www.hackerrank.com/challenges/word-order/problem) | []() |
-| [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem) | []() |
-| [Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem) | []() |
+| [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem) | [company_logo.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Collections/company_logo.py) |
+| [Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem) | [piling_up.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Collections/piling_up.py) |
 
 ### *Date and Time*
 | Challenge | Solution |
 |---|---|
-| [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem) | []() |
-| [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem) | []() |
+| [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem) | [calendar_module.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Date%20and%20Time/calendar_module.py) |
+| [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem) | [time_delta.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Date%20and%20Time/time_delta.py) |
 
 ### *Errors and Exceptions*
 | Challenge | Solution |
 |---|---|
-| [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem) | []() |
-| [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem) | []() |
+| [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem) | [exceptions.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Errors%20and%20Exceptions/exceptions.py) |
+| [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [incorrect_regex.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Errors%20and%20Exceptions/incorrect_regex.py) |
 
 ### *Classes*
 | Challenge | Solution |
 |---|---|
 | [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | []() |
-| [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | []() |
+| [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [class_2_find_the_torsional_angle.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Classes/class_2_find_the_torsional_angle.py) |
 
 ### *Built-Ins*
 | Challenge | Solution |
@@ -219,32 +219,170 @@
 ### *Regex and Parsing* 
 | Challenge | Solution |
 |---|---|
-| [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem) | []() |
-| [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem) | [detect_floating_point_number.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/detect_floating_point_number.py) |
+| [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem) | [detect_floating_point_number.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/detect_floating_point_number.py) |
 | [Re.split()](https://www.hackerrank.com/challenges/re-split/problem) | [split.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/split.py) |
 | [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem) | [group_groups_groupdict.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/group_groups_groupdict.py) |
 | [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem) | [findall_finditer.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/findall_finditer.py) |
-| [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem) | []() |
-| [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem) | []() |
-| [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem) | []() |
-| [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem) | []() |
-| [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code/problem) | []() |
-| [HTML Parser - Part 1](https://www.hackerrank.com/challenges/html-parser-part-1/problem) | []() |
-| [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2/problem) | []() |
-| [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem) | []() |
-| [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem) | []() |
-| [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number/problem) | []() |
+| [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem) | [re.start_re.end.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/re.start_re.end.py) |
+| [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem) | [regex_substitution.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/regex_substitution.py) |
+| [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem) | [validating_roman_numerals.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/validating_roman_numerals.py) |
+| [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem) | [validating_phone_numbers.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/validating_phone_numbers.py) |
+| [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem) | [validating_and_parsing_email_addresses.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/validating_and_parsing_email_addresses.py) |
+| [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code/problem) | [hex_color_code.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/hex_color_code.py) |
+| [HTML Parser - Part 1](https://www.hackerrank.com/challenges/html-parser-part-1/problem) | [html_parser_part1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/html_parser_part1.py) |
+| [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2/problem) | [html_parser_part2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/html_parser_part2.py) |
+| [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem) | [detect_html_tags_attributes_and_attribute_values.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/detect_html_tags_attributes_and_attribute_values.py) |
+| [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem) | [validating_uid.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/validating_uid.py) |
+| [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number/problem) | [validating_credit_card_numbers.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Regex%20and%20Parsing/validating_credit_card_numbers.py) |
 | [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode/problem) | []() |
 | [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem) | []() |
 
 ### *XML*
+| Challenge | Solution |
+|---|---|
+| [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem) | [] () |
+| [XML2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem) | [] () |
 
 ### *Closures and Decorators*
+| Challenge | Solution |
+|---|---|
+| [Standardize Mobile Number Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem) | [] () |
+| [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem) | [] () |
 
 ### *Numpy*
+| Challenge | Solution |
+|---|---|
+| [Arrays](https://www.hackerrank.com/challenges/np-arrays/problem) | [arrays.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Numpy/arrays.py) |
+| [Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem) | [shape_and_reshape.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Numpy/shape_and_reshape.py) |
+| [Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem) | [transpose_and_flatten.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Numpy/transpose_and_flatten.py) |
+| [Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem) | []() |
+| [Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem) | [zeros_and_ones.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Numpy/zeros_and_ones.py) |
+| [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem) | [eye_and_identity.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Numpy/eye_and_identity.py) |
+| [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem) | [array_mathematics.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Numpy/array_mathematics.py) |
+| [Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem) | [floor_ceil_and_rint.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Numpy/floor_ceil_and_rint.py) |
+| [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem) | [sum_and_prod.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Numpy/sum_and_prod.py) |
+| [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem) | [min_and_max.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Numpy/min_and_max.py) |
+| [Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem) | [mean_var_and_std.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Numpy/mean_var_and_std.py) |
+| [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem) | [dot_and_cross.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Numpy/dot_and_cross.py) |
+| [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem) | [inner_and_outer.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Numpy/inner_and_outer.py) |
+| [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem) | [polynomials.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Python/Numpy/polynomials.py) |
+| [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem) | []() |
 
 ### *Debugging*
+| Challenge | Solution |
+|---|---|
+| [Words Score](https://www.hackerrank.com/challenges/words-score/problem) | [] () |
+| [Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem) | [] () |
+
 
 ## Problem Solving
+
+### *Warmup*
+| Challenge | Solution |
+|---|---|
+| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [solve_me_first.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/solve_me_first.py) |
+| [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [simple_array_sum.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/simple_array_sum.py) |
+| [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [compare_the_triplets.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/compare_the_triplets.py) |
+| [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [a_very_big_sum.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/a_very_big_sum.py) |
+| [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [diagonal_difference.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/diagonal_difference.py) |
+| [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [plus_minus.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/plus_minus.py) |
+| [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [staircase.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/staircase.py) |
+| [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [mini_max_sum.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/mini_max_sum.py) |
+| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [birthday_cake_candles_v1.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/birthday_cake_candles_v1.py)<br />[birthday_cake_candles_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/birthday_cake_candles_v2.py) |
+| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [time_conversion_v1.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/time_conversion_v1.py)<br />[time_conversion_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/time_conversion_v2.py) |
+
+### *Implementation*
+| Challenge | Solution |
+|---|---|
+| [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [] () |
+| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [] () |
+| [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) | [] () |
+| [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [] () |
+| [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [] () |
+| [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [] () |
+| [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [] () |
+| [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [migratory_birds_v1.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Implementation/migratory_birds_v1.py)<br />[migratory_birds_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Implementation/migratory_birds_v2.py) |
+| [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [] () |
+| [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem) | [] () |
+| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | [] () |
+| [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | [] () |
+| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [] () |
+| [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [] () |
+| [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [] () |
+| [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | [] () |
+| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | [] () |
+| [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [] () |
+| [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [] () |
+| [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [] () |
+| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | [] () |
+| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [] () |
+| [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [] () |
+| [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [] () |
+| [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | [] () |
+| [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [] () |
+| [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | [] () |
+| [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [] () |
+| [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | [] () |
+| [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [] () |
+| [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | [] () |
+| [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [] () |
+| [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | [] () |
+| [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [] () |
+| [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | [] () |
+| [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | [] () |
+| [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [] () |
+| [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | [] () |
+| [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem) | [] () |
+| [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem) | [] () |
+| [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem) | [] () |
+| [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | [] () |
+| [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | [] () |
+| [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | [] () |
+| [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) | [] () |
+| [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [] () |
+| [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) | [] () |
+| [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) | [] () |
+| [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | [] () |
+| [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [] () |
+| [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem) | [] () |
+| [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [] () |
+| [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | [] () |
+| [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | [] () |
+| [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem) | [] () |
+| [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | [] () |
+| [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem) | [] () |
+| [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | [] () |
+| [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem) | [] () |
+| [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem) | [] () |
+| [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem) | [] () |
+| [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem) | [] () |
+| [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses/problem) | [] () |
+| [Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem) | [] () |
+| [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem) | [] () |
+| [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) | [] () |
+
+### *Strings*
+
+### *Sorting*
+
+### *Search*
+
+### *Graph Theory*
+
+### *Greedy*
+
+### *Dynamic Programming*
+
+### *Constructive Algorithms*
+
+### *Bit Manipulation*
+
+### *Recursion*
+
+### *Game Theory*
+
+### *NP Complete*
+
+### *Debugging*
 
 ## The HackerRank Interview Preparation Kit
