@@ -276,16 +276,16 @@
 ### *Warmup*
 | Challenge | Solution |
 |---|---|
-| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [solve_me_first.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/solve_me_first.py) |
-| [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [simple_array_sum.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/simple_array_sum.py) |
-| [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [compare_the_triplets.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/compare_the_triplets.py) |
-| [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [a_very_big_sum.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/a_very_big_sum.py) |
-| [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [diagonal_difference.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/diagonal_difference.py) |
-| [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [plus_minus.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/plus_minus.py) |
-| [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [staircase.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/staircase.py) |
-| [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [mini_max_sum.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/mini_max_sum.py) |
-| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [birthday_cake_candles_v1.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/birthday_cake_candles_v1.py)<br />[birthday_cake_candles_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/birthday_cake_candles_v2.py) |
-| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [time_conversion_v1.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/time_conversion_v1.py)<br />[time_conversion_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/time_conversion_v2.py) |
+| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [solve_me_first.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/solve_me_first.py) |
+| [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [simple_array_sum.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/simple_array_sum.py) |
+| [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [compare_the_triplets.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/compare_the_triplets.py) |
+| [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [a_very_big_sum.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/a_very_big_sum.py) |
+| [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [diagonal_difference.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/diagonal_difference.py) |
+| [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [plus_minus.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/plus_minus.py) |
+| [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [staircase.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/staircase.py) |
+| [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [mini_max_sum.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/mini_max_sum.py) |
+| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [birthday_cake_candles_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/birthday_cake_candles_v1.py)<br />[birthday_cake_candles_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/birthday_cake_candles_v2.py) |
+| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [time_conversion_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/time_conversion_v1.py)<br />[time_conversion_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Warmup/time_conversion_v2.py) |
 
 ### *Implementation*
 | Challenge | Solution |
@@ -297,7 +297,7 @@
 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | []() |
 | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | []() |
 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | []() |
-| [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [migratory_birds_v1.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Implementation/migratory_birds_v1.py)<br />[migratory_birds_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Implementation/migratory_birds_v2.py) |
+| [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [migratory_birds_v1.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Implementation/migratory_birds_v1.py)<br />[migratory_birds_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Implementation/migratory_birds_v2.py) |
 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | []() |
 | [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem) | []() |
 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | []() |
