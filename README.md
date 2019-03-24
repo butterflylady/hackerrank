@@ -236,14 +236,14 @@
 ### *XML*
 | Challenge | Solution |
 |---|---|
-| [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem) | [] () |
-| [XML2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem) | [] () |
+| [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem) | []() |
+| [XML2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem) | []() |
 
 ### *Closures and Decorators*
 | Challenge | Solution |
 |---|---|
-| [Standardize Mobile Number Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem) | [] () |
-| [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem) | [] () |
+| [Standardize Mobile Number Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem) | []() |
+| [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem) | []() |
 
 ### *Numpy*
 | Challenge | Solution |
@@ -267,8 +267,8 @@
 ### *Debugging*
 | Challenge | Solution |
 |---|---|
-| [Words Score](https://www.hackerrank.com/challenges/words-score/problem) | [] () |
-| [Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem) | [] () |
+| [Words Score](https://www.hackerrank.com/challenges/words-score/problem) | []() |
+| [Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem) | []() |
 
 
 ## Problem Solving
@@ -290,72 +290,72 @@
 ### *Implementation*
 | Challenge | Solution |
 |---|---|
-| [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [] () |
-| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [] () |
-| [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) | [] () |
-| [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [] () |
-| [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [] () |
-| [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [] () |
-| [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [] () |
+| [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | []() |
+| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | []() |
+| [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) | []() |
+| [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | []() |
+| [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | []() |
+| [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | []() |
+| [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | []() |
 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [migratory_birds_v1.py] (https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Implementation/migratory_birds_v1.py)<br />[migratory_birds_v2.py](https://github.com/butterflylady/hackerrank/blob/master/Python/Problem%20Solving/Implementation/migratory_birds_v2.py) |
-| [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [] () |
-| [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem) | [] () |
-| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | [] () |
-| [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | [] () |
-| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [] () |
-| [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [] () |
-| [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [] () |
-| [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | [] () |
-| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | [] () |
-| [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [] () |
-| [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [] () |
-| [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [] () |
-| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | [] () |
-| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [] () |
-| [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [] () |
-| [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [] () |
-| [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | [] () |
-| [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [] () |
-| [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | [] () |
-| [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [] () |
-| [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | [] () |
-| [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [] () |
-| [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | [] () |
-| [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [] () |
-| [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | [] () |
-| [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [] () |
-| [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | [] () |
-| [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | [] () |
-| [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [] () |
-| [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | [] () |
-| [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem) | [] () |
-| [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem) | [] () |
-| [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem) | [] () |
-| [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | [] () |
-| [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | [] () |
-| [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | [] () |
-| [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) | [] () |
-| [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [] () |
-| [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) | [] () |
-| [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) | [] () |
-| [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | [] () |
-| [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [] () |
-| [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem) | [] () |
-| [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [] () |
-| [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | [] () |
-| [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | [] () |
-| [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem) | [] () |
-| [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | [] () |
-| [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem) | [] () |
-| [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | [] () |
-| [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem) | [] () |
-| [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem) | [] () |
-| [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem) | [] () |
-| [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem) | [] () |
-| [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses/problem) | [] () |
-| [Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem) | [] () |
-| [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem) | [] () |
-| [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) | [] () |
+| [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | []() |
+| [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem) | []() |
+| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | []() |
+| [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | []() |
+| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | []() |
+| [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | []() |
+| [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | []() |
+| [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | []() |
+| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | []() |
+| [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | []() |
+| [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | []() |
+| [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | []() |
+| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | []() |
+| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | []() |
+| [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | []() |
+| [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | []() |
+| [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | []() |
+| [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | []() |
+| [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | []() |
+| [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | []() |
+| [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | []() |
+| [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | []() |
+| [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | []() |
+| [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | []() |
+| [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | []() |
+| [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | []() |
+| [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | []() |
+| [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | []() |
+| [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | []() |
+| [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | []() |
+| [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem) | []() |
+| [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem) | []() |
+| [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem) | []() |
+| [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | []() |
+| [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | []() |
+| [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | []() |
+| [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) | []() |
+| [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | []() |
+| [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) | []() |
+| [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) | []() |
+| [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | []() |
+| [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem) | []() |
+| [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem) | []() |
+| [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | []() |
+| [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | []() |
+| [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | []() |
+| [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem) | []() |
+| [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | []() |
+| [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem) | []() |
+| [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | []() |
+| [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem) | []() |
+| [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem) | []() |
+| [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem) | []() |
+| [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem) | []() |
+| [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses/problem) | []() |
+| [Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem) | []() |
+| [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem) | []() |
+| [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) | []() |
 
 ### *Strings*
 
